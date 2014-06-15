@@ -1,0 +1,66 @@
+NYTimesViewer
+=============
+
+Grunt serve to launch.
+
+Ce projet a pour but de créer un rechercheur d'articles sur le site du new york times, à l'aide de DEUX de leurs APIs:http://developer.nytimes.com
+The article search API et the Times Newswire API.
+
+Ainsi, ce projet permet d'effectuer une recherche dans la BDD de NY Times, afficher des ebauches d'articles (avec photo) et lorsqu'on clique sur leurs titres, on peut visualiser l'article original dans une fenetre superposee. 
+La banniere defilante permet de voir les informations les plus recentes, et grace a un algorithme de tri original, d'afficher l'image de plus haute resolution de cette article sur la banniere.
+
+Ce projet avait pour but de répondre à 4 points d'un cahier des charges:
+=============
+
+-Utilisation de bootstrap
+J'ai fait utilisation du CSS que bootstrap nous fournit ainsi que le JS que bootstrap nous donne avec. 
+L'utilisation des des classes ont servies pour le dimensionnement (col-md etc) ainsi que pour les composants (panel, indicateurs OL pour le carousel)
+Le javascript bootstrap m'a uniquement servi pour l'animation du carousel/slider.
+=============
+
+-Utilisation de SASS:
+J'ai utilisé du nesting, par exemmple:
+.carousel{
+border-radius:2px;
+    .item{
+        height:400px;
+    }
+}
+Ainsi que des fonctions pour simplifier l'ecriture de l'opacité (black(x)<-->rgba(0,0,0,x))
+=============
+
+-Creer une application utilisant AngularJS avec architecture MVC
+	.MVC car on a 3 fichiers model, view controller
+	-Affichage d'un filtre  lorsque les articles sont visibles
+	-Directive d'affichage des articles
+	-utilisation de ng-repeat, ng-if, ng-show.... (directives prefaites angular)
+=============
+
+-Facile d'utilisation
+Il y a uniquement deux champs de saisie sur le site, et pas de besoin de bouton valider.
+=============
+
+
+BUGS ET PROBLEMES RENCONTRÉS
+=============
+Il y a eu beaucoup de bugs au cours du developpement de cette application, ce qui a bien sur reduit la fonctionalité.
+
+Dans un premier temps, le bug le plus chronophage a été celui des CROSS-ORIGIN-REQUESTS
+Il s'avère que plusieurs API du New York Times n'authorisenet pas les cross domain requests (depuis un serveur local), et donc j'ai cherché longtemps des alternatives, sans résultat.
+Les news du timewire, donc les plus recentes sont inaccessibles depuis le localhost, donc j'ai plutot telechargé un JSON en utilisant POSTman, et fait usage de celui ci. Cependant, l'appli serait fonctionelle si elle était sur un serveur et que le fichier JSON reponse serait different a chaque requete.
+
+Par la suite, Un gros probleme a été la recuperation de l'article en soi. En effet, via l'API, on recupere un titre, des URLS images, des metadonnees, mais pas le contenu d'article, qui est ce qu'il y a de plus interessant pour l'utilisateur. J'ai tenté de faire du 'Web SCraping', mais encore une fois, pour faire les requetes ajax permettant de recuperer le contenu d'une page, il faut etre sur un veritable serveur, et non sur un localhost, donc j'ai décidé d'afficher les articles originaux dans un iframe.
+
+Ensuite, l'algorithme de parcour des images de chaque article a été difficile (3 boucles for imbriquees), mais je suis fier de pouvoir dire qu'il est 100% fonctionnel, et qu'il supprime meme les articles sans images
+
+Enfin, le dernier souci s'est fait au niveau de github. comme vous pouvez le constater, j'ai du vous envoyer ce fichier par lien dropbox. L'upload de fichiers etait 'impossible' car les noms des chemins de fichiers etaient trop longs dans node-modules.. J'ai essayé de changer le fichier git-ignore, mais sans resultats.
+
+PERSPECTIVES DE DEVELOPPEMENT
+=============
+Dans les informations recues du NYT, on peut visualiser la geolocalisation des articles. J'aurai aimé (avec plus de temps), utiliser l'interface GOogle MAps et afficher (avec tri) les articles dans certains pays ou continents. 
+
+Ensuite, j'aurai aimé rajouter plusieurs pages (pour plus de resultats)
+
+J'aurai également aimé créer sur un serveur en ligne, une API que me permettrait (en tant que proxy), d'acceder aux données interdites 'cross-domain', mais je pense qu'il aurait été plus simple de mettre en ligne ce projet!
+
+Paul Renaudat et Timothée Mérigaud
