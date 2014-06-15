@@ -1,0 +1,75 @@
+<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Header -->
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">NY Times Article Finder</a>
+    </div>
+    <form class="navbar-form navbar-left" role="search">
+      <div class="input-group">
+        <span class="input-group-addon">  <span class="glyphicon glyphicon-search"></span></span>
+        <input type="text" ng-model="query" class="form-control" ng-change="getArticleList(query,combovar)"placeholder="Search by keyword">
+      </div>
+      <label class="control-label" for="selectbasic">Sort  by</label>
+
+      <select id="selectbasic" ng-init="combovar='newest'"name="selectbasic" ng-model="combovar"class="input-large" ng-change="getArticleList(query,combovar)">
+        <option select="selected">Newest</option>
+        <option>Oldest</option>
+      </select> 
+
+    </form>
+
+  </div><!-- /.navbar-collapse -->
+</nav>
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic"  ng-repeat="item in items" data-slide-to="{{item.index}}" class="active"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="item active col-md-12 row-md-6">
+      <img class="center"src="http://www.userlogos.org/files/logos/Mafia_Penguin/ny.png" alt="New York Times">
+      <div class="carousel-caption">
+       <h2><b> Your trusted source of information</b><h2>
+      </div>
+    </div>
+    <div ng-repeat="item in items" class="item">
+      <img src="{{item.URL}}" class="center" alt="{{item.TEXT}}">
+      <div class="carousel-caption">
+        <h2>Top stories: <b><a data-toggle="modal" data-target="#myModal" ng-click="showModal(item.link);">{{item.TEXT}}</a></b></h2>
+      </div>
+    </div>
+  </div> 
+</div>
+
+<!-- Filter-->
+
+<input ng-model="searchText" type="text" class="col-xs-12" ng-show="fbool" ng-init="fbool=false" placeholder="Filter">
+<br>
+<br>
+<!-- COmmentaires-->
+<section id="articles" class="col-xs-12">
+  <div class="col-xs-12 col-md-4" ng-repeat="article in response | filter:searchText">
+    <div article>
+    </div>
+  </section>
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h4 class="modal-title" id="myModalLabel">NYTimes viewer</h4>
+        </div>
+        <div class="modal-body">
+          <iframe src="{{modal}}">
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      $('.carousel').carousel({
+  interval: 500
+  });
+    </script>

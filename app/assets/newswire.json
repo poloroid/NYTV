@@ -1,0 +1,2547 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2014 The New York Times Company.  All Rights Reserved.",
+    "num_results": 967,
+    "results": [
+        {
+            "url": "http://lens.blogs.nytimes.com/2014/06/11/redhead-photo-sperm-bank-invitro/",
+            "adx_keywords": "artificial insemination; conservation geneticist; Cryos International; Fabrica; genetic advantages; Geri Halliwells.; Julianne Moore; Marina Rosso; Matt McCann; MC1R gene; Prince Harrys; sperm donation; The Beautiful Gene; Udine; Genetics and Heredity; Identification Devices; Photography; Sperm; China; Denmark; Great Britain",
+            "column": "Lens",
+            "section": "Multimedia",
+            "byline": "By MATT MCCANN",
+            "type": "Blog",
+            "title": "Seeing Red in the Gene Pool",
+            "abstract": "Redhead deposits aren&#8217;t wanted at the world&#8217;s largest sperm bank, leading a photographer to document gingers in all their blazing, freckled varieties.",
+            "published_date": "2014-06-11",
+            "source": "The New York Times",
+            "id": 267,
+            "asset_id": 267,
+            "views": 1,
+            "des_facet": [
+                "GENETICS AND HEREDITY",
+                "IDENTIFICATION DEVICES",
+                "PHOTOGRAPHY",
+                "SPERM"
+            ],
+            "org_facet": [
+                "FABRICA"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "CHINA",
+                "DENMARK",
+                "GREAT BRITAIN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/10/blogs/20140610-lens-red-slide-X12C/20140610-lens-red-slide-X12C-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/10/blogs/20140610-lens-red-slide-X12C/20140610-lens-red-slide-X12C-custom1.jpg",
+                            "format": "Large",
+                            "height": 266,
+                            "width": 400
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/13/opinion/paul-krugman-eric-cantor-and-the-death-of-a-movement.html",
+            "adx_keywords": "Cantor, Eric;Republican Party;Conservatism (US Politics);United States Politics and Government;Virginia;Primaries and Caucuses;Elections, House of Representatives;Brat, David A",
+            "column": "Op-Ed Columnist",
+            "section": "Opinion",
+            "byline": "By PAUL KRUGMAN",
+            "type": "Article",
+            "title": "The Fix Isn’t In",
+            "abstract": "The surprise primary defeat of Eric Cantor is the unraveling of an ideological movement.",
+            "published_date": "2014-06-13",
+            "source": "The New York Times",
+            "id": "100000002937208",
+            "asset_id": 100000002937208,
+            "views": 2,
+            "des_facet": [
+                "CONSERVATISM (US POLITICS)",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "PRIMARIES AND CAUCUSES",
+                "ELECTIONS, HOUSE OF REPRESENTATIVES"
+            ],
+            "org_facet": [
+                "REPUBLICAN PARTY"
+            ],
+            "per_facet": [
+                "CANTOR, ERIC",
+                "BRAT, DAVID A"
+            ],
+            "geo_facet": [
+                "VIRGINIA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Paul Krugman",
+                    "copyright": "Fred R. Conrad/The New York Times",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-articleInline-v2.jpg",
+                            "format": "Normal",
+                            "height": 285,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 2048,
+                            "width": 1366
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/13/world/middleeast/iraq.html",
+            "adx_keywords": "Islamic State of Iraq and Syria;Iraq;Maliki, Nuri Kamal al-;Douri, Izzat Ibrahim al-",
+            "column": "",
+            "section": "World",
+            "byline": "By TIM ARANGO, SUADAD AL-SALHY and RICK GLADSTONE",
+            "type": "Article",
+            "title": "Kurdish Fighters Take a Key Oil City as Militants Advance on Baghdad",
+            "abstract": "As the Kurds seized Kirkuk, Sunni militants threatened to advance into the heavily Shiite south and destroy shrines there.",
+            "published_date": "2014-06-13",
+            "source": "The New York Times",
+            "id": "100000002935314",
+            "asset_id": 100000002935314,
+            "views": 3,
+            "des_facet": "",
+            "org_facet": [
+                "ISLAMIC STATE OF IRAQ AND SYRIA"
+            ],
+            "per_facet": [
+                "MALIKI, NURI KAMAL AL-",
+                "DOURI, IZZAT IBRAHIM AL-"
+            ],
+            "geo_facet": [
+                "IRAQ"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kurdish forces patrolled near Mosul, Iraq, on Thursday, to prevent further infiltration of Islamic militants. Kurdish forces also took control of Kirkuk on Thursday.",
+                    "copyright": "Onur Coban/Anadolu Agency, via Getty Images",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ/IRAQ-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ/IRAQ-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ/IRAQ-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ/IRAQ-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ/IRAQ-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ/IRAQ-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ/IRAQ-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ/IRAQ-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Fighters of the Islamic State of Iraq and Syria stood guard at a checkpoint in Mosul on Thursday.",
+                    "copyright": "Reuters",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ-2/IRAQ-2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ-2/IRAQ-2-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ-2/IRAQ-2-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ-2/IRAQ-2-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ-2/IRAQ-2-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ-2/IRAQ-2-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ-2/IRAQ-2-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/IRAQ-2/IRAQ-2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/12/world/middleeast/iraq-asked-us-for-airstrikes-on-militants-officials-say.html",
+            "adx_keywords": "Islamic State of Iraq and Syria;Maliki, Nuri Kamal al-;Iraq;United States Defense and Military Forces;United States International Relations;Obama, Barack;Mosul (Iraq)",
+            "column": "",
+            "section": "World",
+            "byline": "By MICHAEL R. GORDON and ERIC SCHMITT",
+            "type": "Article",
+            "title": "U.S. Said to Rebuff Iraqi Request to Strike Militants",
+            "abstract": "The Obama administration declined last month’s request by Prime Minister Nuri Kamal al-Maliki because it was reluctant to open a new chapter in a conflict that the White House has insisted was closed.",
+            "published_date": "2014-06-12",
+            "source": "The New York Times",
+            "id": "100000002934716",
+            "asset_id": 100000002934716,
+            "views": 4,
+            "des_facet": [
+                "UNITED STATES DEFENSE AND MILITARY FORCES",
+                "UNITED STATES INTERNATIONAL RELATIONS"
+            ],
+            "org_facet": [
+                "ISLAMIC STATE OF IRAQ AND SYRIA"
+            ],
+            "per_facet": [
+                "MALIKI, NURI KAMAL AL-",
+                "OBAMA, BARACK"
+            ],
+            "geo_facet": [
+                "IRAQ",
+                "MOSUL (IRAQ)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A vehicle belonging to the Iraqi security forces was abandoned in Mosul.",
+                    "copyright": "Reuters",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/world/IRAQ-3/IRAQ-3-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/world/IRAQ-3/IRAQ-3-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1416,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/world/IRAQ-3/IRAQ-3-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/world/IRAQ-3/IRAQ-3-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/world/IRAQ-3/IRAQ-3-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/world/IRAQ-3/IRAQ-3-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/world/IRAQ-3/IRAQ-3-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/world/IRAQ-3/IRAQ-3-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/13/world/obama-voices-concern-over-militant-advance-in-iraq.html",
+            "adx_keywords": "Obama, Barack;Iraq;Iraq War (2003-11)",
+            "column": "",
+            "section": "World",
+            "byline": "By MARK LANDLER and ERIC SCHMITT",
+            "type": "Article",
+            "title": "U.S. Scrambles to Help Iraq Fight Off Militants as Baghdad Is Threatened",
+            "abstract": "The White House hurried Thursday to reassure Iraq that it would help its beleaguered army fend off militants who have overrun much of the country and now threaten Baghdad.",
+            "published_date": "2014-06-13",
+            "source": "The New York Times",
+            "id": "100000002936093",
+            "asset_id": 100000002936093,
+            "views": 5,
+            "des_facet": [
+                "IRAQ WAR (2003-11)"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "OBAMA, BARACK"
+            ],
+            "geo_facet": [
+                "IRAQ"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "&ldquo;I don&rsquo;t rule out anything,&rdquo; President Obama said of Iraq, speaking Thursday in the Oval Office.",
+                    "copyright": "Gabriella Demczuk/The New York Times",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/PREXY/PREXY-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/PREXY/PREXY-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1380,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/PREXY/PREXY-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/PREXY/PREXY-thumbLarge-v2.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/PREXY/PREXY-articleInline-v2.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/PREXY/PREXY-square640-v2.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/PREXY/PREXY-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/PREXY/PREXY-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/12/opinion/gail-collins-putting-a-cap-on-cantor.html",
+            "adx_keywords": "Brat, David A;Cantor, Eric;Republican Party;United States Politics and Government;Virginia;Primaries and Caucuses;Elections, House of Representatives;Tea Party Movement",
+            "column": "Op-Ed Columnist",
+            "section": "Opinion",
+            "byline": "By GAIL COLLINS",
+            "type": "Article",
+            "title": "Putting a Cap on Cantor",
+            "abstract": "The defeat in Virginia of the House majority leader was “a 10 on the political Richter scale,” and there is a moral in this somewhere.",
+            "published_date": "2014-06-12",
+            "source": "The New York Times",
+            "id": "100000002934942",
+            "asset_id": 100000002934942,
+            "views": 6,
+            "des_facet": [
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "ELECTIONS, HOUSE OF REPRESENTATIVES",
+                "TEA PARTY MOVEMENT"
+            ],
+            "org_facet": [
+                "REPUBLICAN PARTY"
+            ],
+            "per_facet": [
+                "BRAT, DAVID A",
+                "CANTOR, ERIC"
+            ],
+            "geo_facet": [
+                "VIRGINIA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gail Collins",
+                    "copyright": "Earl Wilson/The New York Times",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Collins_New/Collins_New-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Collins_New/Collins_New-articleInline-v2.jpg",
+                            "format": "Normal",
+                            "height": 240,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Collins_New/Collins_New-thumbLarge-v2.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/13/sports/worldcup/world-cup-2014-brazil-wins-opening-match-against-croatia.html",
+            "adx_keywords": "World Cup 2014 (Soccer);Brazil;Croatia;Soccer;Neymar",
+            "column": "Brazil 3, Croatia 1",
+            "section": "Sports",
+            "byline": "By SAM BORDEN",
+            "type": "Article",
+            "title": "Player Tumbles; Opposition Falls",
+            "abstract": "Brazil, the host country and favorite for the World Cup, was awarded a penalty kick despite Croatia’s protests, leading to the decisive goal in the tournament opener.",
+            "published_date": "2014-06-13",
+            "source": "The New York Times",
+            "id": "100000002936971",
+            "asset_id": 100000002936971,
+            "views": 7,
+            "des_facet": [
+                "WORLD CUP 2014 (SOCCER)",
+                "SOCCER"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "NEYMAR"
+            ],
+            "geo_facet": [
+                "BRAZIL",
+                "CROATIA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The referee Yuichi Nishimura, bottom left, awarded a penalty kick to Brazil when Fred fell to the ground after making light contact with a Croatian player.",
+                    "copyright": "Pawel Kopczynski/Reuters",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP1/BRAZILCUP1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP1/BRAZILCUP1-superJumbo-v2.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP1/BRAZILCUP1-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP1/BRAZILCUP1-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP1/BRAZILCUP1-articleInline-v2.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP1/BRAZILCUP1-square640-v2.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP1/BRAZILCUP1-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP1/BRAZILCUP1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marcelo, right, had the tournament&rsquo;s first goal &mdash; but for the wrong team. A retreating Marcelo essentially ran the ball into the net in the 11th minute for Brazil&rsquo;s first own goal in World Cup history.",
+                    "copyright": "Odd Andersen/Agence France-Presse — Getty Images",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/JP-BRAZILCUP/JP-BRAZILCUP-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/JP-BRAZILCUP/JP-BRAZILCUP-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1305,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/JP-BRAZILCUP/JP-BRAZILCUP-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/JP-BRAZILCUP/JP-BRAZILCUP-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/JP-BRAZILCUP/JP-BRAZILCUP-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/JP-BRAZILCUP/JP-BRAZILCUP-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/JP-BRAZILCUP/JP-BRAZILCUP-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/JP-BRAZILCUP/JP-BRAZILCUP-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Neymar had two goals for Brazil, the second on a penalty kick in the 71st minute.",
+                    "copyright": "Damir Sagolj/Reuters",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP2/BRAZILCUP2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP2/BRAZILCUP2-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1100,
+                            "width": 1775
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP2/BRAZILCUP2-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP2/BRAZILCUP2-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP2/BRAZILCUP2-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP2/BRAZILCUP2-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP2/BRAZILCUP2-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/sports/BRAZILCUP2/BRAZILCUP2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/11/upshot/world-cup-opinions-in-19-countries-likes-dislikes-predictions.html",
+            "adx_keywords": "World Cup 2014 (Soccer);Soccer",
+            "column": "The Upshot",
+            "section": "The Upshot",
+            "byline": "By GREGOR AISCH, DAVID LEONHARDT and KEVIN QUEALY",
+            "type": "Article",
+            "title": "World Cup Opinions in 19 Countries: Likes, Dislikes, Predictions",
+            "abstract": "Argentina, the United States and Iran appear to be the most disliked World Cup teams. Brazilian supporters enter the tournament as the most confident fans.",
+            "published_date": "2014-06-11",
+            "source": "The New York Times",
+            "id": "100000002930638",
+            "asset_id": 100000002930638,
+            "views": 8,
+            "des_facet": [
+                "WORLD CUP 2014 (SOCCER)",
+                "SOCCER"
+            ],
+            "org_facet": [
+                "FACEBOOK INC",
+                "FB",
+                "NASDAQ",
+                "TWITTER",
+                "TWTR",
+                "NYSE"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sheep dressed in colors of the Colombian soccer team on June 1. Colombians are among the world's biggest soccer fans.",
+                    "copyright": "Jose Miguel Gomez/Reuters",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup-copy/SUB-11up-Cup-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup-copy/SUB-11up-Cup-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1496,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup-copy/SUB-11up-Cup-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup-copy/SUB-11up-Cup-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup-copy/SUB-11up-Cup-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup-copy/SUB-11up-Cup-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup-copy/SUB-11up-Cup-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup-copy/SUB-11up-Cup-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sheep dressed in colors of the Colombian soccer team on June 1. Colombians are among the world's biggest soccer fans.",
+                    "copyright": "Jose Miguel Gomez/Reuters",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup/SUB-11up-Cup-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup/SUB-11up-Cup-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup/SUB-11up-Cup-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup/SUB-11up-Cup-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup/SUB-11up-Cup-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1496,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup/SUB-11up-Cup-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup/SUB-11up-Cup-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/11/upshot/SUB-11up-Cup/SUB-11up-Cup-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/13/education/fraternities-are-focus-of-measures-to-reduce-assaults-and-misconduct.html",
+            "adx_keywords": "Colleges and Universities;Fraternities and Sororities;Hazing;Alcohol Abuse;Sex Crimes;Women and Girls;Northwestern University",
+            "column": "",
+            "section": "Education",
+            "byline": "By RICHARD PÉREZ-PEÑA and STEVEN YACCINO",
+            "type": "Article",
+            "title": "Efforts by Colleges to Curb Assaults Focus on Fraternities ",
+            "abstract": "As colleges come under intense pressure to curb sexual assault, binge drinking and hazing, they are increasingly looking at their fraternities.",
+            "published_date": "2014-06-13",
+            "source": "The New York Times",
+            "id": "100000002879730",
+            "asset_id": 100000002879730,
+            "views": 9,
+            "des_facet": [
+                "COLLEGES AND UNIVERSITIES",
+                "FRATERNITIES AND SORORITIES",
+                "HAZING",
+                "WOMEN AND GIRLS"
+            ],
+            "org_facet": [
+                "NORTHWESTERN UNIVERSITY"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Josiah Terrell-Perica, a junior at Amherst College in western Massachusetts, helps clean an off-campus house where members of the Chi Psi fraternity live. Amherst, which has long barred such housing on its campus, will from July 1 prohibit students from belonging to any fraternity or sorority.",
+                    "copyright": "Matthew Cavanaugh for The New York Times",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/SUB-FRATERNITIES/SUB-FRATERNITIES-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/SUB-FRATERNITIES/SUB-FRATERNITIES-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1330,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/SUB-FRATERNITIES/SUB-FRATERNITIES-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/SUB-FRATERNITIES/SUB-FRATERNITIES-thumbLarge-v2.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/SUB-FRATERNITIES/SUB-FRATERNITIES-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/SUB-FRATERNITIES/SUB-FRATERNITIES-square640-v2.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/SUB-FRATERNITIES/SUB-FRATERNITIES-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/SUB-FRATERNITIES/SUB-FRATERNITIES-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Students dance at a fund-raiser for the Leukemia Research Foundation hosted by the Zeta Beta Tau fraternity at Northwestern.",
+                    "copyright": "Armando L. Sanchez for The New York Times",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS1/JP-FRATS1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS1/JP-FRATS1-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS1/JP-FRATS1-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS1/JP-FRATS1-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS1/JP-FRATS1-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS1/JP-FRATS1-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS1/JP-FRATS1-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS1/JP-FRATS1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Students sit outside in an area that houses fraternities at Northwestern in Evanston, Ill., which has a robust Greek scene.",
+                    "copyright": "Armando L. Sanchez for The New York Times",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS2/JP-FRATS2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS2/JP-FRATS2-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1368,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS2/JP-FRATS2-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS2/JP-FRATS2-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS2/JP-FRATS2-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS2/JP-FRATS2-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS2/JP-FRATS2-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/us/JP-FRATS2/JP-FRATS2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/12/sports/worldcup/2014-world-cup-group-preview-from-a-to-h.html",
+            "adx_keywords": "World Cup 2014 (Soccer);Soccer",
+            "column": "",
+            "section": "Sports",
+            "byline": "By THE NEW YORK TIMES",
+            "type": "Article",
+            "title": "Let the Soccer Drama Begin",
+            "abstract": "Here is a group-by-group analysis examining countries seen as contenders, and countries that would be overjoyed to make it out of their group.",
+            "published_date": "2014-06-12",
+            "source": "The New York Times",
+            "id": "100000002933810",
+            "asset_id": 100000002933810,
+            "views": 10,
+            "des_facet": [
+                "WORLD CUP 2014 (SOCCER)",
+                "SOCCER"
+            ],
+            "org_facet": "",
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Sam Manchester/The New York Times; Photographs by Agence France-Presse — Getty Images, Reuters and Getty Images",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/12worldcupcapsules-1/12worldcupcapsules-1-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/12worldcupcapsules-1/12worldcupcapsules-1-superJumbo-v3.jpg",
+                            "format": "superJumbo",
+                            "height": 1451,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/12worldcupcapsules-1/12worldcupcapsules-1-sfSpan-v3.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/12worldcupcapsules-1/12worldcupcapsules-1-thumbLarge-v3.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/12worldcupcapsules-1/12worldcupcapsules-1-articleInline-v3.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/12worldcupcapsules-1/12worldcupcapsules-1-square640-v3.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/12worldcupcapsules-1/12worldcupcapsules-1-square320-v3.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/12worldcupcapsules-1/12worldcupcapsules-1-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-a/12wc-a-thumbStandard-v12.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-a/12wc-a-articleInline-v10.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-a/12wc-a-superJumbo-v12.jpg",
+                            "format": "superJumbo",
+                            "height": 452,
+                            "width": 400
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-a/12wc-a-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 264,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-a/12wc-a-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-a/12wc-a-thumbLarge-v10.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-a/12wc-a-mediumThreeByTwo210-v6.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-b/12wc-b-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-b/12wc-b-articleInline-v3.jpg",
+                            "format": "Normal",
+                            "height": 126,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-b/12wc-b-superJumbo-v4.jpg",
+                            "format": "superJumbo",
+                            "height": 480,
+                            "width": 400
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-b/12wc-b-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-b/12wc-b-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-b/12wc-b-thumbLarge-v3.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-b/12wc-b-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-c/12wc-c-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-c/12wc-c-articleInline-v3.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-c/12wc-c-superJumbo-v4.jpg",
+                            "format": "superJumbo",
+                            "height": 548,
+                            "width": 400
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-c/12wc-c-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 264,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-c/12wc-c-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-c/12wc-c-thumbLarge-v3.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-c/12wc-c-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-d/12wc-d-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-d/12wc-d-articleInline-v3.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-d/12wc-d-superJumbo-v4.jpg",
+                            "format": "superJumbo",
+                            "height": 513,
+                            "width": 400
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-d/12wc-d-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 264,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-d/12wc-d-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-d/12wc-d-thumbLarge-v3.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-d/12wc-d-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-e/12wc-e-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-e/12wc-e-articleInline-v3.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-e/12wc-e-superJumbo-v4.jpg",
+                            "format": "superJumbo",
+                            "height": 472,
+                            "width": 400
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-e/12wc-e-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 264,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-e/12wc-e-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-e/12wc-e-thumbLarge-v3.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-e/12wc-e-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-f/12wc-f-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-f/12wc-f-articleInline-v3.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-f/12wc-f-superJumbo-v4.jpg",
+                            "format": "superJumbo",
+                            "height": 483,
+                            "width": 400
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-f/12wc-f-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 264,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-f/12wc-f-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-f/12wc-f-thumbLarge-v3.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-f/12wc-f-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-g/12wc-g-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-g/12wc-g-articleInline-v3.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-g/12wc-g-superJumbo-v4.jpg",
+                            "format": "superJumbo",
+                            "height": 429,
+                            "width": 400
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-g/12wc-g-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 264,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-g/12wc-g-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-g/12wc-g-thumbLarge-v3.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-g/12wc-g-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-h/12wc-h-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-h/12wc-h-articleInline-v3.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-h/12wc-h-superJumbo-v4.jpg",
+                            "format": "superJumbo",
+                            "height": 451,
+                            "width": 400
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-h/12wc-h-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 264,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-h/12wc-h-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-h/12wc-h-thumbLarge-v3.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/sports/worldcup/12wc-h/12wc-h-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/14/world/middleeast/iraq.html",
+            "adx_keywords": "Baghdad (Iraq);Diyala Province (Iraq);Islamic State of Iraq and Syria;Iraqi Army;Middle East and North Africa Unrest (2010- );Sistani, Ali Al-",
+            "column": "",
+            "section": "World",
+            "byline": "By ALISSA J. RUBIN, SUADAD AL-SALHY and ALAN COWELL",
+            "type": "Article",
+            "title": "Iraqi Shiite Cleric Issues Call to Arms",
+            "abstract": "The most senior Shiite cleric in the country, Grand Ayatollah Ali Sistani, called on Iraqis to assist the government’s fight against the Sunni militants who have seized broad stretches of Iraq.",
+            "published_date": "2014-06-14",
+            "source": "The New York Times",
+            "id": "100000002937628",
+            "asset_id": 100000002937628,
+            "views": 11,
+            "des_facet": [
+                "MIDDLE EAST AND NORTH AFRICA UNREST (2010- )"
+            ],
+            "org_facet": [
+                "ISLAMIC STATE OF IRAQ AND SYRIA",
+                "IRAQI ARMY"
+            ],
+            "per_facet": [
+                "SISTANI, ALI AL-"
+            ],
+            "geo_facet": [
+                "BAGHDAD (IRAQ)",
+                "DIYALA PROVINCE (IRAQ)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Iraqi police officers dug trenches at a checkpoint in the town of Taji, outside Baghdad, on Friday, as security forces bolstered defenses in the capital.",
+                    "copyright": "Ahmad Al-Rubaye/Agence France-Presse — Getty Images",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-3/14iraq-3-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-3/14iraq-3-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1321,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-3/14iraq-3-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-3/14iraq-3-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-3/14iraq-3-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-3/14iraq-3-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-3/14iraq-3-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-3/14iraq-3-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Volunteers run toward military trucks as they leave a recruiting center in Baghdad on Friday.",
+                    "copyright": "Ali Al-Saadi/Agence France-Presse — Getty Images",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-2/14iraq-2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-2/14iraq-2-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1373,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-2/14iraq-2-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 264,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-2/14iraq-2-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-2/14iraq-2-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-2/14iraq-2-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-2/14iraq-2-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/14iraq-2/14iraq-2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Iraqi military trucks carry volunteers to a base in Baghdad on Friday.",
+                    "copyright": "Ali Abbas/European Pressphoto Agency",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/middleeast/14iraq-cnd/14iraq-cnd-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/middleeast/14iraq-cnd/14iraq-cnd-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1500,
+                            "width": 2000
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/middleeast/14iraq-cnd/14iraq-cnd-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/middleeast/14iraq-cnd/14iraq-cnd-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/middleeast/14iraq-cnd/14iraq-cnd-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/middleeast/14iraq-cnd/14iraq-cnd-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/middleeast/14iraq-cnd/14iraq-cnd-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/14/world/middleeast/14iraq-cnd/14iraq-cnd-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/12/opinion/charles-m-blow-the-cantor-omen.html",
+            "adx_keywords": "Cantor, Eric;United States Politics and Government;Republican Party;Primaries and Caucuses;Brat, David A;Elections, House of Representatives",
+            "column": "Op-Ed Columnist",
+            "section": "Opinion",
+            "byline": "By CHARLES M. BLOW",
+            "type": "Article",
+            "title": "The Cantor Omen",
+            "abstract": "We already have a deadlocked system in Washington. Stacking the deck against politicians who deign to compromise doesn’t bode well for us as a nation.",
+            "published_date": "2014-06-12",
+            "source": "The New York Times",
+            "id": "100000002934652",
+            "asset_id": 100000002934652,
+            "views": 12,
+            "des_facet": [
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "PRIMARIES AND CAUCUSES",
+                "ELECTIONS, HOUSE OF REPRESENTATIVES"
+            ],
+            "org_facet": [
+                "REPUBLICAN PARTY"
+            ],
+            "per_facet": [
+                "CANTOR, ERIC",
+                "BRAT, DAVID A"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Charles M. Blow",
+                    "copyright": "Damon Winter/The New York Times",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Blow_New/Blow_New-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Blow_New/Blow_New-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Blow_New/Blow_New-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 240,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Blow_New/Blow_New-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Blow_New/Blow_New-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 2048,
+                            "width": 1639
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Blow_New/Blow_New-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Blow_New/Blow_New-thumbLarge-v2.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/13/opinion/david-brooks-the-sunni-shiite-conflict-explodes-in-iraq.html",
+            "adx_keywords": "Obama, Barack;Iraq War (2003-11);United States Defense and Military Forces;Islamic State of Iraq and Syria;Iraq;Syria",
+            "column": "Op-Ed Columnist",
+            "section": "Opinion",
+            "byline": "By DAVID BROOKS",
+            "type": "Article",
+            "title": "The Big Burn",
+            "abstract": "After neglect from the United States, the Sunni-Shiite conflict explodes in Iraq.",
+            "published_date": "2014-06-13",
+            "source": "The New York Times",
+            "id": "100000002937399",
+            "asset_id": 100000002937399,
+            "views": 13,
+            "des_facet": [
+                "IRAQ WAR (2003-11)",
+                "UNITED STATES DEFENSE AND MILITARY FORCES"
+            ],
+            "org_facet": [
+                "ISLAMIC STATE OF IRAQ AND SYRIA"
+            ],
+            "per_facet": [
+                "OBAMA, BARACK"
+            ],
+            "geo_facet": [
+                "IRAQ",
+                "SYRIA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "David Brooks",
+                    "copyright": "Josh Haner/The New York Times",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 240,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 2048,
+                            "width": 1366
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/13/arts/ruby-dee-actress-dies-at-91.html",
+            "adx_keywords": "Dee, Ruby;Theater;Civil Rights and Liberties;Deaths (Obituaries);Blacks;Movies;Boesman and Lena (Play);A Raisin in the Sun (Play);A Raisin in the Sun (Movie);The Jackie Robinson Story (Movie);No Way Out (Movie)",
+            "column": "",
+            "section": "Arts",
+            "byline": "By BRUCE WEBER",
+            "type": "Article",
+            "title": "Ruby Dee, a Ringing Voice for Civil Rights, Onstage and Off, Dies at 91",
+            "abstract": "Ms. Dee, whose most famous performance was a supporting role in “A Raisin in the Sun,” was a leading advocate for civil rights, along with her husband, Ossie Davis.",
+            "published_date": "2014-06-13",
+            "source": "The New York Times",
+            "id": "100000002936069",
+            "asset_id": 100000002936069,
+            "views": 14,
+            "des_facet": [
+                "THEATER",
+                "BLACKS",
+                "MOVIES"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "DEE, RUBY"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sidney Poitier and Ruby Dee in &ldquo;A Raisin in the Sun,&rdquo; which opened on Broadway in 1959.",
+                    "copyright": "via Photofest",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/obituaries/DEE/DEE-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/obituaries/DEE/DEE-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1484,
+                            "width": 1484
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/obituaries/DEE/DEE-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/obituaries/DEE/DEE-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/obituaries/DEE/DEE-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/obituaries/DEE/DEE-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/obituaries/DEE/DEE-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/obituaries/DEE/DEE-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "G. Paul Burnett/The New York Times",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/arts/DEE-obit-slide-QHF0/DEE-obit-slide-QHF0-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/arts/DEE-obit-slide-QHF0/DEE-obit-slide-QHF0-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/arts/DEE-obit-slide-QHF0/DEE-obit-slide-QHF0-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/arts/DEE-obit-slide-QHF0/DEE-obit-slide-QHF0-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/arts/DEE-obit-slide-QHF0/DEE-obit-slide-QHF0-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1370,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/arts/DEE-obit-slide-QHF0/DEE-obit-slide-QHF0-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/arts/DEE-obit-slide-QHF0/DEE-obit-slide-QHF0-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/arts/DEE-obit-slide-QHF0/DEE-obit-slide-QHF0-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/12/opinion/in-gop-far-right-is-too-moderate.html",
+            "adx_keywords": "Brat, David A;Cantor, Eric;House of Representatives;Republican Party;United States Politics and Government;Boehner, John A;Virginia;United States;Editorials;Primaries and Caucuses;Elections, House of Representatives",
+            "column": "Today's Editorials",
+            "section": "Opinion",
+            "byline": "By THE EDITORIAL BOARD",
+            "type": "Article",
+            "title": "In G.O.P., Far Right Is Too Moderate",
+            "abstract": "Having unleashed the most destructive political impulses of his party, Eric Cantor finally fell victim to them.",
+            "published_date": "2014-06-12",
+            "source": "The New York Times",
+            "id": "100000002933325",
+            "asset_id": 100000002933325,
+            "views": 15,
+            "des_facet": [
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "EDITORIALS",
+                "PRIMARIES AND CAUCUSES",
+                "ELECTIONS, HOUSE OF REPRESENTATIVES"
+            ],
+            "org_facet": [
+                "HOUSE OF REPRESENTATIVES",
+                "REPUBLICAN PARTY"
+            ],
+            "per_facet": [
+                "BRAT, DAVID A",
+                "CANTOR, ERIC",
+                "BOEHNER, JOHN A"
+            ],
+            "geo_facet": [
+                "VIRGINIA",
+                "UNITED STATES"
+            ],
+            "media": ""
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/13/business/media/jill-abramson-to-teach-at-harvard.html",
+            "adx_keywords": "Harvard University;Abramson, Jill",
+            "column": "",
+            "section": "Business Day",
+            "byline": "By RAVI SOMAIYA",
+            "type": "Article",
+            "title": "Jill Abramson, Ex-Times Editor, to Teach at Harvard",
+            "abstract": "Ms. Abramson, dismissed on May 14 as executive editor of The New York Times, will teach narrative nonfiction to undergraduates.",
+            "published_date": "2014-06-13",
+            "source": "The New York Times",
+            "id": "100000002935953",
+            "asset_id": 100000002935953,
+            "views": 16,
+            "des_facet": "",
+            "org_facet": [
+                "HARVARD UNIVERSITY"
+            ],
+            "per_facet": [
+                "ABRAMSON, JILL"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jill Abramson spoke at commencement at Wake Forest.",
+                    "copyright": "Chris Keane/Getty Images",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/business/13ABRAMSON/13ABRAMSON-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/business/13ABRAMSON/13ABRAMSON-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1827,
+                            "width": 1264
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/business/13ABRAMSON/13ABRAMSON-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/business/13ABRAMSON/13ABRAMSON-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/business/13ABRAMSON/13ABRAMSON-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/business/13ABRAMSON/13ABRAMSON-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/business/13ABRAMSON/13ABRAMSON-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/business/13ABRAMSON/13ABRAMSON-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/13/world/middleeast/russia-sees-american-adventurism-in-iraq-behind-current-conflict.html",
+            "adx_keywords": "Iraq War (2003-11);Lavrov, Sergey V;Russia;Iraq;United States International Relations",
+            "column": "",
+            "section": "World",
+            "byline": "By NEIL MacFARQUHAR",
+            "type": "Article",
+            "title": "Russia Sees American ‘Adventurism’ in Iraq Behind Current Conflict",
+            "abstract": "Sergey V. Lavrov, the Russian foreign minister, said the United States’ withdrawal of forces from Iraq was premature and contributed to the recent terrorism there.",
+            "published_date": "2014-06-13",
+            "source": "The New York Times",
+            "id": "100000002935581",
+            "asset_id": 100000002935581,
+            "views": 17,
+            "des_facet": [
+                "IRAQ WAR (2003-11)",
+                "UNITED STATES INTERNATIONAL RELATIONS"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "LAVROV, SERGEY V"
+            ],
+            "geo_facet": [
+                "RUSSIA",
+                "IRAQ"
+            ],
+            "media": ""
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/12/fashion/the-sneaker-comes-of-age.html",
+            "adx_keywords": "Fashion and Apparel;Sneakers;Men and Boys",
+            "column": "",
+            "section": "Fashion & Style",
+            "byline": "By ALEX WILLIAMS",
+            "type": "Article",
+            "title": "The Sneaker Comes of Age",
+            "abstract": "The distinction between dress and athletic shoes is on the verge of collapse for fashion-forward men.",
+            "published_date": "2014-06-12",
+            "source": "The New York Times",
+            "id": "100000002933686",
+            "asset_id": 100000002933686,
+            "views": 18,
+            "des_facet": [
+                "FASHION AND APPAREL",
+                "SNEAKERS"
+            ],
+            "org_facet": [
+                "GOLDMAN SACHS GROUP INC",
+                "GS",
+                "NYSE",
+                "NIKE INC",
+                "NKE",
+                "NYSE",
+                "TWITTER",
+                "TWTR",
+                "NYSE"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The sneaker, once scruffy, is de rigueur in some workplaces and has even hoisted itself onto the red carpet.",
+                    "copyright": "Tony Cenicola/The New York Times",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN/12SNEAKERS_SPAN-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN/12SNEAKERS_SPAN-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1241,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN/12SNEAKERS_SPAN-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN/12SNEAKERS_SPAN-thumbLarge-v2.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN/12SNEAKERS_SPAN-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN/12zSNEAKERS-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN/12zSNEAKERS-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN/12zSNEAKERS-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tony Cenicola/The New York Times",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN-copy/12zSNEAKERS-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN-copy/12SNEAKERS_SPAN-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN-copy/12SNEAKERS_SPAN-copy-articleInline-v2.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN-copy/12SNEAKERS_SPAN-copy-sfSpan-v3.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN-copy/12SNEAKERS_SPAN-copy-superJumbo-v2.jpg",
+                            "format": "superJumbo",
+                            "height": 1208,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN-copy/12zSNEAKERS-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN-copy/12SNEAKERS_SPAN-thumbLarge-v2.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/12/fashion/12SNEAKERS_SPAN-copy/12zSNEAKERS-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/13/world/middleeast/iraqis-fled-mosul-for-home-after-militant-group-swarmed-the-city.html",
+            "adx_keywords": "Refugees and Displaced Persons;Sunni Muslims;Islamic State of Iraq and Syria;Iraq",
+            "column": "",
+            "section": "World",
+            "byline": "By TIM ARANGO",
+            "type": "Article",
+            "title": "Iraqis Who Fled Mosul Say They Prefer Militants to Government",
+            "abstract": "As many as 500,000 Iraqis fled Mosul after a militant group swarmed the city, many of them Sunnis who seemed less fearful of the group than their own government.",
+            "published_date": "2014-06-13",
+            "source": "The New York Times",
+            "id": "100000002936256",
+            "asset_id": 100000002936256,
+            "views": 19,
+            "des_facet": [
+                "REFUGEES AND DISPLACED PERSONS"
+            ],
+            "org_facet": [
+                "ISLAMIC STATE OF IRAQ AND SYRIA"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "IRAQ"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Iraqi men outside the main army recruiting center in Baghdad on Thursday, volunteering for military service against insurgents.",
+                    "copyright": "Karim Kadim/Associated Press",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL1/MOSUL-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL1/MOSUL-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1338,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL1/MOSUL-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL1/MOSUL-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL1/MOSUL-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL1/MOSUL-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL1/MOSUL-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL1/MOSUL-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Iraqis fled Mosul this week after a siege by Islamic extremists, with a large number taking refuge in Erbil.",
+                    "copyright": "Onur Coban/Anadolu Agency, via Getty Images",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL/MOSUL-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL/MOSUL-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL/MOSUL-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL/MOSUL-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL/MOSUL-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL/MOSUL-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL/MOSUL-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/MOSUL/MOSUL-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "http://www.nytimes.com/2014/06/13/world/europe/tanks-of-unknown-origin-roll-into-ukraine.html",
+            "adx_keywords": "Ukraine;Donetsk (Ukraine)",
+            "column": "",
+            "section": "World",
+            "byline": "By ANDREW E. KRAMER",
+            "type": "Article",
+            "title": "Tanks, of Unknown Origin, Roll Into Ukraine",
+            "abstract": "Ukraine’s interior minister claimed that an armored column from Russia had crossed the border into eastern Ukraine overnight.",
+            "published_date": "2014-06-13",
+            "source": "The New York Times",
+            "id": "100000002936375",
+            "asset_id": 100000002936375,
+            "views": 20,
+            "des_facet": "",
+            "org_facet": [
+                "FACEBOOK INC",
+                "FB",
+                "NASDAQ"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "UKRAINE",
+                "DONETSK (UKRAINE)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An apartment building in Slovyansk, Ukraine, showed damage Thursday from weeks of fighting.",
+                    "copyright": "Evgeniy Maloletka/Associated Press",
+                    "media-metadata": [
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/UKRAINE/UKRAINE-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/UKRAINE/UKRAINE-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1473,
+                            "width": 2048
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/UKRAINE/UKRAINE-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/UKRAINE/UKRAINE-thumbLarge.jpg",
+                            "format": "thumbLarge",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/UKRAINE/UKRAINE-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/UKRAINE/UKRAINE-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/UKRAINE/UKRAINE-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "http://graphics8.nytimes.com/images/2014/06/13/world/UKRAINE/UKRAINE-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
